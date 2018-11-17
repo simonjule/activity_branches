@@ -1,3 +1,3 @@
 function myFunction(){
-	alert("Hello, GIT!!");
+	alert("Salut, GIT!!");
 }
